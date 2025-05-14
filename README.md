@@ -1,3 +1,6 @@
+# What is Alpha Vantage Dashboard
+This project is a web app which display a dashboard of data pulled from the Alpha Vantage API. It contains information about a specific stock and displays it in graph and table format. It includes a input which allows different stock symbols to be entered to retrieve the stock information of that specific stock.
+
 # Setting Up Enviornment
 First CD into the directory and install all the packages using
 
